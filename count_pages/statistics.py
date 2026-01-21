@@ -411,6 +411,6 @@ if __name__ == '__main__':
         get_gunning_fog_index(ta)
         it.__exit__()
 
-    #test_ntlk('''C:\Dev\Tools\eclipse\workspace\_Misc\Test\TestDoc.rtf''')
-    get_cbz_page_count('''C:\Dev\Tools\eclipse\workspace\_Misc\misery-depot.zip''')
-    get_cbr_page_count('''C:\Dev\Tools\eclipse\workspace\_Misc\misery-depot.cbr''')
+    #test_ntlk(r'''C:\Dev\Tools\eclipse\workspace\_Misc\Test\TestDoc.rtf''')
+    get_cbz_page_count(r'''C:\Dev\Tools\eclipse\workspace\_Misc\misery-depot.zip''')
+    get_cbr_page_count(r'''C:\Dev\Tools\eclipse\workspace\_Misc\misery-depot.cbr''')
